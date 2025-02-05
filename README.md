@@ -1,2 +1,2 @@
 # Projeto Churn-Telecom
- Este projeto visa prever o cancelamento de clientes, afim de orientação para medidas de prevenção e retenção destes clienetes
+Este projeto tem como objetivo prever o cancelamento de clientes, fornecendo insights para ações estratégicas de retenção e prevenção, auxiliando na tomada de decisão para a fidelização da base de clientes.
